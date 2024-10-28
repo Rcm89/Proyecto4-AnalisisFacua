@@ -1,11 +1,12 @@
 # Proyecto4-AnalisisFacua
 
-![image.png](attachment:image.png)
+![image](https://github.com/user-attachments/assets/62bc0833-94b8-48b9-8904-41e95f261f26)
 
 
-Análisis de precios en los principales supermercados de España
 
-Descripción: El proyecto 4 consiste en la extracción, exploración, limpieza, almacenamiento en Base de datos y análisis de los precios de productos básicos en los principales supermercados de España (en concreto, el aceite de girasol, el aceite de oliva y la leche), haciendo uso de archivos.py y Jupyter notebook.
+**Análisis de precios en los principales supermercados de España**
+
+**Descripción:** El proyecto 4 consiste en la extracción, exploración, limpieza, almacenamiento en Base de datos y análisis de los precios de productos básicos en los principales supermercados de España (en concreto, el aceite de girasol, el aceite de oliva y la leche), haciendo uso de archivos.py y Jupyter notebook.
 
 Las técnicas usadas durante el proyecto son en su mayoría aquellas enseñadas durante la cuarta semana de formación (Uso de web scrapping, creación de bass de datos relacionales y queries, creación de gráficas y formateos entre otros
 
