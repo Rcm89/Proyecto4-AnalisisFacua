@@ -135,7 +135,7 @@ def conexion_a_dbeaver(database):
         conexion = psycopg2.connect(
             database=database,
             user="postgres",
-            password=os.getenv("token"),
+            password="admin",
             host="localhost",
             port="5432"
         )
